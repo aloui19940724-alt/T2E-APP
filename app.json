@@ -17,8 +17,8 @@
       "permissions": ["CAMERA", "READ_MEDIA_IMAGES"]
     },
     "extra": {
-      "supabaseUrl": "PUT_YOUR_SUPABASE_URL_HERE",
-      "supabaseAnonKey": "PUT_YOUR_SUPABASE_ANON_KEY_HERE"
+      "supabaseUrl": "https://lvvluacawgxzztcdoosb.supabase.co/",
+      "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx2dmx1YWNhd2d4enp0Y2Rvb3NiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODg2OTA4NjcsImV4cCI6MjEwNDI2Njg2N30.JAXDk02lzwclfPb2SUJmR4zUOg75rJ9wUlGfxTzWC4k"
     }
   }
 }
