@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Task2Earn",
+    "slug": "task2earn-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#0B0F1A"
+    },
+    "android": {
+      "package": "com.task2earn.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0B0F1A"
+      },
+      "permissions": ["CAMERA", "READ_MEDIA_IMAGES"]
+    },
+    "extra": {
+      "supabaseUrl": "PUT_YOUR_SUPABASE_URL_HERE",
+      "supabaseAnonKey": "PUT_YOUR_SUPABASE_ANON_KEY_HERE"
+    }
+  }
+}
